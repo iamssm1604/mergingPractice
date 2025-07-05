@@ -4,4 +4,4 @@ Hello World
 Learning something new
 
 # javascript
-make sure you have js environment
+make sure you do not have js environment
